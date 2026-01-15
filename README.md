@@ -1,6 +1,5 @@
 Hi, I’m Damián 👋  
 👀 I’m interested in Computer Science and Software Engineering
-
 🌱 Currently learning Java and C, while studying Computer Engineering at the National University of La Matanza  
 
 
